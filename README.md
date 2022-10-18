@@ -38,8 +38,8 @@ Users should be able to:
 - React Hooks
 - Conditional
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- [Vite](https://vitejs.dev/) - Development environment
+- [Tailwind](https://tailwindcss.com/) - For styles
 
 ### What I learned
 
